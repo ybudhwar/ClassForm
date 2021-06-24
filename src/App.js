@@ -1,10 +1,10 @@
 import './App.css';
-import Screen1 from './components/Screen1';
+import ClassScreen from './components/ClassScreen';
 
 function App() {
   return (
     <div id="id1">
-      <Screen1 />
+      <ClassScreen />
     </div>
   );
 }
