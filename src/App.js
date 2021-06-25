@@ -3,7 +3,7 @@ import ClassScreen from './components/ClassScreen';
 
 function App() {
   return (
-    <div id="id1">
+    <div className="App">
       <ClassScreen />
     </div>
   );
